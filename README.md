@@ -1,2 +1,2 @@
-# Midterm-Liv_Nakul
+# Midterm - Liv, Nakul
 Liv Bottomley and Nakul Solai's project
